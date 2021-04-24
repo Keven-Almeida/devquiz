@@ -7,7 +7,7 @@ Projeto em Flutter, onde foi usando animações e packages de compartilhamento.
  google_fonts: ^2.0.0
  
  
- share_plus: ^2.0.1;
+ share_plus: ^2.0.1
 
 
 For help getting started with Flutter, view our
