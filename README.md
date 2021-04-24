@@ -1,6 +1,6 @@
 # devquiz
 
-A new Flutter project.
+Projeto em Flutter, onde foi usando animações e packages de compartilhamento.
 
 ## Getting Started
 
