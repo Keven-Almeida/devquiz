@@ -1,6 +1,6 @@
 # devquiz
 
-Projeto em Flutter, onde foi usando animações e packages de compartilhamento.
+Projeto desenvolvido em flutter durante estudos, Aplicação com intuito de aprender flutter de uma forma diferente. 
 
 ## Getting Started
 
